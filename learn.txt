@@ -1,3 +1,6 @@
 git is a good tool
 
 master add someting
+
+add a line
+
